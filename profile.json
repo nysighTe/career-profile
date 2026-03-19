@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "name": "Stefan",
+    "role_level": "Senior / Director",
+    "domain": "Financial Services (Markets, Corporates, Private Banking)",
+    "current_title": "Senior Product Owner",
+    "experience_years": 18
+  },
+  "strengths": [
+    {
+      "id": "s1",
+      "label": "Ambiguity to structured direction",
+      "description": "Takes diffuse inputs or unclear problem spaces and transforms them into coherent roadmaps, requirements, or decision-ready assessments."
+    },
+    {
+      "id": "s2",
+      "label": "Cross-functional leadership without authority",
+      "description": "Aligns business, technology, operations, and control functions through influence, coordination, and diplomacy rather than hierarchy."
+    },
+    {
+      "id": "s3",
+      "label": "Governance, data integrity, and operational rigour",
+      "description": "Strengthens first-line controls, improves reporting accuracy, remediates audit issues, and increases process robustness."
+    },
+    {
+      "id": "s4",
+      "label": "Designing clarity in complex systems",
+      "description": "Creates single sources of truth, simplifies workflows, and consolidates platforms. Strong preference for order, structure, and systemic coherence."
+    },
+    {
+      "id": "s5",
+      "label": "Executive communication and analytical output",
+      "description": "Produces dashboards, KPI reports, and strategy packs that support senior decision-making and organisational alignment."
+    },
+    {
+      "id": "s6",
+      "label": "Multi-region and cross-cultural navigation",
+      "description": "Comfortable working across Asia, Europe, and global teams with diverse stakeholders and varying governance environments."
+    }
+  ],
+  "skills": {
+    "core": [
+      "Roadmapping and prioritisation",
+      "Backlog management",
+      "Discovery and functional scoping",
+      "Translating business needs into delivery plans",
+      "Management reporting and KPI frameworks",
+      "Audit alignment and risk coordination",
+      "Executive communication",
+      "Cross-functional facilitation (Sales, Technology, Operations, Compliance)",
+      "Dependency management",
+      "Data governance and single-source-of-truth design",
+      "Process improvement and workflow consolidation",
+      "Decision-ready analysis (buy-vs-build, scenario analysis)"
+    ],
+    "supporting": [
+      "Cloud service provider assessment",
+      "Front-office workflow support (RM tooling, sales enablement)",
+      "STP improvement and operational optimisation",
+      "Transaction analysis and governance automation",
+      "Regional portfolio oversight and multi-jurisdiction coordination"
+    ]
+  },
+  "interests_and_fit": {
+    "roles_that_fit": [
+      "Product Owner / Product Lead for internal platforms (CRM, Sales, Workflow, Data Governance)",
+      "Business Manager / COO Office roles with multi-team or multi-region scope",
+      "Governance, reporting transparency, and operational improvement roles",
+      "Platform transformation and consolidation programmes",
+      "Structured alignment roles across business and technical stakeholders",
+      "Roles requiring structured decision support and roadmap clarity"
+    ],
+    "roles_to_avoid": [
+      "Highly technical engineering or architecture positions",
+      "Commercial or sales quota-carrying roles",
+      "Pure strategy or innovation roles detached from operational realities",
+      "Early-stage startup roles lacking governance structures",
+      "Creative product ideation roles with minimal process or complexity"
+    ],
+    "what_is_negotiable": [
+      "Industry domain (skills transferable across regulated environments)",
+      "Strategy-heavy vs execution-heavy balance",
+      "Reporting line structure (business, COO, or product-led)",
+      "Organisation size and maturity (governance must exist)"
+    ]
+  },
+  "non_negotiables": {
+    "role_requirements": [
+      "Mid-Senior to Director level only — no entry-level roles",
+      "Structural clarity and meaningful scope — not narrow task execution",
+      "Cross-functional collaboration as a core part of the work",
+      "Governance, reporting, or operational depth",
+      "Limited or no demand for hands-on technical engineering"
+    ],
+    "work_model": [
+      "Hybrid or Hybrid/Onsite only",
+      "Full-time roles only",
+      "Direct stakeholder and leadership interaction required — remote-only is a poor fit"
+    ],
+    "locations": [
+      "London, UK",
+      "Sydney, Australia",
+      "Melbourne, Australia",
+      "Perth, Australia",
+      "Auckland, New Zealand",
+      "Tokyo, Japan",
+      "Toronto, Canada",
+      "Vancouver, Canada",
+      "Vienna, Austria",
+      "Zurich, Switzerland",
+      "Munich, Germany"
+    ],
+    "environment": [
+      "Must have structured governance and cross-functional mandates",
+      "Complex internal systems required",
+      "Regulated or multi-stakeholder environments preferred",
+      "Domains with minimal structure or weak governance are a poor match"
+    ]
+  },
+  "work_preferences": [
+    "Aligning multiple teams, systems, or jurisdictions",
+    "High-ambiguity environments requiring structured clarity",
+    "Improving decision-making through data, reporting, and governance",
+    "Coordinating across business and technology rather than working solo",
+    "Delivering platforms or processes that support front-office or operational teams",
+    "Solving problems involving both workflow and data complexity"
+  ]
+}
